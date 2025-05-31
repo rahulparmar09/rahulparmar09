@@ -1,6 +1,6 @@
 # Hi I'm Rahul Parmar👋
 
-🌱 I’m currently learning <br> ⚡ Fun fact:I love Tech and Tech love me
+🌱 I’m currently learning <br> ⚡ Fun fact: I love Tech and Tech love me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im._.rahul0912) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-parmar-24780b312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulparmar0u@gmail.com) 
