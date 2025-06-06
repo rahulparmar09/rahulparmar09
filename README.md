@@ -1,6 +1,20 @@
 # Hi I'm Rahul Parmar👋
 
-🌱 I’m currently learning <br> ⚡ Fun fact: I love Tech and Tech love me
+<div class="flex flex-col md:flex-row items-center justify-between gap-6 p-4">
+  <!-- Left Text -->
+  <div class="text-center md:text-left md:w-1/2">
+    <p class="text-lg font-medium">
+      🌱 I’m currently learning <br>
+      ⚡ Fun fact: I love Tech and Tech loves me
+    </p>
+  </div>
+
+  <!-- Right Image -->
+  <div class="md:w-1/2 flex justify-center">
+    <img class="w-64 h-48" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Programmer GIF">
+  </div>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im._.rahul0912) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-parmar-24780b312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulparmar0u@gmail.com) 
